@@ -1,0 +1,11 @@
+body {
+  padding: 3% 5%;
+  background-color: midnightblue;
+  font-family: verdana;
+  color: coral;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
